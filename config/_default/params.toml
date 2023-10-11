@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["projects"]
+mainSections = ["blog"] # Show in "recent".
 # robots = ""
 
 disableImageOptimization = true
@@ -37,10 +37,10 @@ disableImageOptimization = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 6
-  showMoreLink = false
-  showMoreLinkDest = "/projects"
+  showMoreLink = true
+  showMoreLinkDest = "/blog"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
