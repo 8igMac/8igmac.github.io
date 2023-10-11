@@ -1,6 +1,7 @@
 ---
-title: "Developer Blogs"
+title: "Blog"
 description: "Modi's developer blog."
 ---
 
-Make it work. Make it right. Make it fast.
+Welcome to Modi's developer blog. 
+I learn by doing and I share things along my learning journey.
