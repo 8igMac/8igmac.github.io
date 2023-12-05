@@ -5,6 +5,7 @@ showReadingTime: false
 description: "Karaoke app for elders in the local community."
 summary: "Karaoke app for elders in the local community."
 showHero: false
+draft: true
 ---
 
 ## What is the project about?

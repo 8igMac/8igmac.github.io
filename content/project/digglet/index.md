@@ -6,6 +6,7 @@ showReadingTime: false
 description: "Real-time audio streaming server that support speaker verification and sound level detection."
 summary: "Real-time audio streaming server that support speaker verification and sound level detection."
 showHero: false
+draft: true
 ---
 
 <!-- What is the project about? -->
