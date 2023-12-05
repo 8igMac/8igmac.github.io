@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["blog"] # Show in "recent".
+mainSections = ["dev"] # Show in "recent".
 # robots = ""
 
 disableImageOptimization = true
@@ -40,7 +40,7 @@ disableImageOptimization = true
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "/blog"
+  showMoreLinkDest = "/dev"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background

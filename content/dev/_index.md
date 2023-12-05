@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Dev"
 description: "Modi's developer blog."
 ---
 
