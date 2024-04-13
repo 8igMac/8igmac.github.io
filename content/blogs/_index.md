@@ -1,6 +1,6 @@
 ---
-title: "Dev"
-description: "Modi's developer blog."
+title: "Blogs"
+description: "Modi's developer blogs."
 ---
 
 Welcome to Modi's developer blog. 
