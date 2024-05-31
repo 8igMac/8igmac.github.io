@@ -6,65 +6,29 @@ showAuthor: false
 showReadingTime: false
 ---
 
-<!-- Who are you and what you do. -->
+## Past experience
+- **Natural Language Processing Researcher** (2021-2023): Held a master degree in Computer Science specialized in Natural Language Processing. During the master degree, I study the application of large
+language models and received a research grant from Google.
+- **Flutter Developer** (2021-2022): Collaborated with UI/UX designers and a
+team of talented developers to build a [karaoke app](https://play.google.com/store/apps/details?id=com.mi2s.pocket_ktv&hl=en) for 
+the entertainment of elders in the local neighbor community
+within 3 months and reached 5000+ downloads.
+- **C++ Developer** (2018-2021): Learning modern C++ and applied it to
+solve bioinformatic problem (e.g., sequence alignment,
+genome indexing).
+  - Developed a alignment-based [plagiarism detection service](https://8igmac.github.io/projects/save/)
+  and lead to an [IEEE paper](https://ieeexplore.ieee.org/document/10198547) and a [startup](https://www.linkedin.com/company/praexisio/).
+  - Developed a Bioinformatic C++ library.
 
-Modi is a software developer who is passionate about 
-turning ideas into workable prototypes. 
-He has been coding since 2015. He started 
-with C++ and then gradually learn other
-programming languages such as Python, Dart, TypeScript, and Go.
-He studied natural language processing during his master degree
-and he worked on incorporating human thinking framework into
-large language models like GPT-4 as his master thesis.
-Modi was inspired by Design Thinking
-methodology and believed that only if you have empathy
-toward your user can you build a great product.
-
-<figure>
-  <img src="me2.png" alt="me" style="margin: 0 auto;">
-  <figcaption style="text-align: center;">
-    Photo by my good friend Sara.
-  </figcaption>
-</figure>
-
-<!-- Talk about the intrests. -->
-
-Aside from work, Modi enjoys surfing with friends, his favorite
-surf spot is in Taitung, Taiwan and hopes one day he get to
-take a surf trip to Bali.
-
-<figure>
-  <img src="longboard.jpg" alt="longboard surf" style="margin: 0 auto;">
-  <figcaption style="text-align: center;">
-    Surfing at Wushi Harbor (North), Yilan, Taiwan.
-  </figcaption>
-</figure>
-<figure>
-  <img src="shortboard.jpg" alt="shortboard surf" style="margin: 0 auto;">
-  <figcaption style="text-align: center;">
-    Surfing at Yuguang Island, Tainan, Taiwan.
-  </figcaption>
-</figure>
-
-Modi loves to explore the nature and likes to go camping,
-river tracing and hiking.
-
-<figure>
-  <img src="mountain.jpg" alt="mountain" style="margin: 0 auto;" width="80%">
-  <figcaption style="text-align: center;">
-    Mt. Jade Front Peak, my first 100 Peaks of Taiwan.
-  </figcaption>
-</figure>
-
-Modi also likes to play guitar. Inspired
-by Jazz improvisation, Modi believed that music is a interactive and
-creative experience, so he encourage people improvise when they play
-together.
-
-<figure>
-  <img src="guitar.jpg" alt="guitar" style="margin: 0 auto;" width="80%">
-  <figcaption style="text-align: center;">
-    Photo by my good friend Sara. We were having a 
-    good afternoon playing music together.
-  </figcaption>
-</figure>
+## What I believed
+- **What is the purpose of work?**
+  - To create, to learn (and share), and to contribute.
+- **What serves as the fuel for my motivation?**
+  - The stuff I build make someone else's life better.
+- **What excites me?**
+  - Turning ideas into workable prototypes.
+- **How to build a great product?**
+  - Have [empathy](https://www.interaction-design.org/literature/article/design-thinking-getting-started-with-empathy) toward your user.
+  - [Make it work, Make it right, Make it fast](https://8igmac.github.io/blogs/make_it_work/).
+- **What is the ultimate productivity tip?**
+  - Pursuit [Essentialism](https://gregmckeown.com/books/essentialism/) 
