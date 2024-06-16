@@ -49,3 +49,10 @@ I accomplished this by:
   - RESTful API with **FastAPI (Python)**.
   - **Kaldi** for speech to text.
   - Deployed using **Docker**.
+- Project milestone:
+  - 2021-10-22 First commit on Dart practice
+  - 2021-11-12 First commit on pktv
+  - 2021-12-02 Craft 2 pages UI in pktv
+  - 2022-03-16 pktv v0.1.0 internal testing #1
+  - 2022-03-29 pktv v0.2.0 internal testing #2
+  - 2022-04-07 pktv v0.2.1 closed alpha testing with 4 major features.
