@@ -8,11 +8,12 @@ summary: "AI-powered mediator that helps in a settlement conference."
 showHero: false
 ---
 
+<h3>
+  <a href="https://github.com/8igMac/diglett">Link to the backend source code</a>
+</h3>
+
 <figure>
   <img src="slogan.png" alt="Slogan" style="margin: 0 auto;">
-  <figcaption style="text-align: center;">
-    <a href="https://github.com/8igMac/diglett">Link to the backend source code I contributed in this project.</a>
-  </figcaption>
 </figure>
 
 A settlement conference is a common alternative for parties in a dispute, like after a car accident, to resolve matters outside of court. Typically, a neutral third-party mediator is present to ensure a respectful and calm atmosphere during negotiations. However, the cost of hiring such a mediator can be high.
@@ -54,8 +55,6 @@ In this project, we functioned as a team, handling everything from problem ident
 - Backend developer: Modi
 
 ## Appendix
-- Link to the [backend source code](https://github.com/8igMac/diglett) I contributed in this project.
-
 <figure>
   <img src="draft.png" alt="Design draft" style="margin: 0 auto;">
   <figcaption style="text-align: center;">
